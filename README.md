@@ -119,21 +119,8 @@ Insight: Transactions show seasonality — peaks in spring and fall, lower activ
 
 <img width="1143" height="635" alt="image" src="https://github.com/user-attachments/assets/16e16d71-6efa-41d1-bc6b-7c55ab22c167" />
 
-4. Client Growth
 
-All major clients show strong YoY growth:
-
-SwiftPay +37%
-
-TransLink +41%
-
-FinBank +39%
-
-PayFlow +29%
-
-Insight: TransLink and FinBank are emerging growth leaders, while SwiftPay remains dominant.
-
-5. Transaction Failures
+4. Transaction Failures
 
 SwiftPay: 50K failed transactions
 
@@ -144,6 +131,9 @@ TransLink: 35K failed transactions
 PayFlow: 29K failed transactions
 
 Insight: Even with a 97% success rate, large transaction counts mean failures still represent millions in lost value.
+
+<img width="696" height="566" alt="image" src="https://github.com/user-attachments/assets/483ab9a1-f507-4f0c-9848-2eac4720046f" />
+
 
 <img width="1566" height="687" alt="image" src="https://github.com/user-attachments/assets/a69714e5-b24e-4351-acfd-0abe9019d8dc" />
 
